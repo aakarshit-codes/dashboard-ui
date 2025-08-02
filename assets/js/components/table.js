@@ -1,3 +1,4 @@
+// Renders a responsive table of projects from static JSON
 export async function loadProjectTable() {
     const container = document.getElementById('project-table');
     if (!container) return;

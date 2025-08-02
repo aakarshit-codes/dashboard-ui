@@ -1,3 +1,4 @@
+// Fetches JSON data and renders dashboard summary cards
 export async function loadDashboardCards() {
     const container = document.getElementById('dashboard-cards');
     if (!container) return;
