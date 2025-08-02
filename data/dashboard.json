@@ -1,0 +1,17 @@
+[
+    {
+        "label": "Total Users",
+        "value": "12,345",
+        "icon": "👥"
+    },
+    {
+        "label": "Revenue",
+        "value": "$56,780",
+        "icon": "💰"
+    },
+    {
+        "label": "Active Projects",
+        "value": "27",
+        "icon": "📁"
+    }
+]
